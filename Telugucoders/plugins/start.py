@@ -56,7 +56,7 @@ async def start_(client: Client, message: Message, _):
            InlineKeyboardButton(_["network_btn"], url=f"https://t.me/{NETWORK}"), 
            ],[
            InlineKeyboardButton(_["git_repo"], url="https://github.com/Telugucoders/AmalaMusic"), 
-           InlineKeyboardButton(_["owner_btn"], url=f"t.me/santhu_afk_bot7981"), 
+           InlineKeyboardButton(_["owner_btn"], url=f"tg://settings"), 
            ],[
            InlineKeyboardButton(_["lang_btn"], callback_data="_langs")
            ]]
