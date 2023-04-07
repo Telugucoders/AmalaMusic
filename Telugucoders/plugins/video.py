@@ -94,9 +94,6 @@ async def vplay(c: Client, m: Message, _):
     if not a.can_invite_users:
         await m.reply_text(_["music_5"])
         return
-    if not a.can_restrict_members:
-        await m.reply_text(_["music_6"])
-        return
     try:
         ubot = (await user.get_me()).id
         b = await c.get_chat_member(chat_id, ubot) 
@@ -387,9 +384,6 @@ async def vstream(c: Client, m: Message, _):
         return
     if not a.can_invite_users:
         await m.reply_text(_["music_5"])
-        return
-    if not a.can_restrict_members:
-        await m.reply_text(_["music_6"])
         return
     try:
         ubot = (await user.get_me()).id
