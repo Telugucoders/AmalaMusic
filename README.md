@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/Telugucoders/AmalaMusic"><img src="https://img.shields.io/github/repo-size/Telugucoders/AmalaMusic?color=green" alt="Repository Size"></a>
-  <a href="https://github.com/Telugucoders/AmalaMusic/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Telugucoders/AmalaMusic?color=green" alt="License"></a>
+  <a href="https://github.com/Telugucoders/AmalaMusic/blob/amala/LICENSE"><img src="https://img.shields.io/github/license/Telugucoders/AmalaMusic?color=green" alt="License"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/python-3.9-blue.svg" alt="Python"></a>
   <a href="https://pyrogram.org"><img src="https://img.shields.io/badge/pyrogram-1.3.9-yellow.svg" alt="Pyrogram"></a>
   <a href="https://t.me/tgshadow_fighters"><img src="https://img.shields.io/badge/telugucoders-blue.svg" alt="Telugu coders"></a>
