@@ -27,3 +27,4 @@ yt_dlp
 cachetools==5.1.0
 git+https://github.com/ADITYAxSERVER/downloader
 numpy
+pykeyboard
