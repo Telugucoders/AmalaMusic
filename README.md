@@ -43,7 +43,7 @@ This is a simple Telegram Music Bot made using the Pyrogram library in Python. I
    apt-get install -y nodejs
 5. Install the dependencies:
    ```sh
-   pip3 install -U -r Installer
+   pip3 install -U -r requirements.txt
 6. Create a new bot on Telegram using BotFather and get its API token.
 7. Create a new file `.env` in the root directory and add the following:
    ```sh
